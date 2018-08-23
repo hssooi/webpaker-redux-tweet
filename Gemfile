@@ -43,6 +43,10 @@ gem 'react-rails'
 
 gem 'webpacker', '~> 3.5.5'
 
+group :development do
+  gem 'foreman'
+end
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]

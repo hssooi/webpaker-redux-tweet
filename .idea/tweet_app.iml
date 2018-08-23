@@ -411,6 +411,21 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="dotenv (vbundled(0.7.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="erubi (vbundled(1.7.1)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/erubi-1.7.1/lib" />
@@ -450,6 +465,30 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ffi-1.9.25/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ffi-1.9.25/samples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="foreman (vbundled(0.64.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
         </excluded>
       </library>
     </orderEntry>
